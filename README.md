@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate freelance developer with a focus 
 
 ## Skills
 - **Languages**:Java, c#, JavaScript, Python
-- **Frameworks**:React,Nest.js ,Angular Node.js
+- **Frameworks**:React,Angular Node.js ,Nest.js
 - **Databases**: MySQL, MongoDB
 - **Tools & Technologies**: Git, RESTful APIs, GraphQL
 - **Testing**: Jest
